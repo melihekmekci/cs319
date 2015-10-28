@@ -1,1 +1,1 @@
-# cs319
+This is a CS 319 project repository
